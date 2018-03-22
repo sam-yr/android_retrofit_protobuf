@@ -1,0 +1,17 @@
+*.iml
+# Gradle files
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+# Local configuration file (sdk path, etc)
+local.properties
+/local.properties
+/.idea
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild

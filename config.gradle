@@ -1,0 +1,10 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+ext {
+    useGoogleProtobuf = true
+
+    compileSdkVersion = 26
+    buildToolsVersion = "26.0.2"
+    minSdkVersion = 23
+    targetSdkVersion = 26
+}
